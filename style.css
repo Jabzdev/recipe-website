@@ -1,0 +1,31 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background: #511730;
+    color:rgb(0, 0, 0);
+}
+
+.Description {
+    color: #FFFFFF;
+}
+
+.ingredients {
+    color: #FFFFFF;
+}
+
+.Steps {
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+div a {
+    color: #f6fa07;
+}
+
+.options a {
+    color: #FFFFFF;
+}
